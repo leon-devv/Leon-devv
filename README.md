@@ -28,7 +28,7 @@
 * 🛠️ *"If it's not well done, it's not done."*
 * 📬 **Contact me at:** [crisja.lh08@gmail.com](mailto:crisja.lh08@gmail.com)
 
-📁 **Featured Projects** * ☕ [(https://github.com/leon-devv/proyectos-universidad-java) - A collection of academic Java projects built using NetBeans, focusing on logic, loops, and data structures. * 🗄️ [(https://github.com/leon-devv/proyectos-mysql-universidad) - Relational database schemas, architecture, and SQL scripts developed during my software engineering degree.
+📁 **Featured Projects** * ☕ [(https://github.com/leon-devv/proyectos-universidad-java.git) - A collection of academic Java projects built using NetBeans, focusing on logic, loops, and data structures. * 🗄️ [(https://github.com/leon-devv/proyectos-mysql-universidad) - Relational database schemas, architecture, and SQL scripts developed during my software engineering degree.
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
