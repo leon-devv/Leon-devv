@@ -20,14 +20,17 @@
   </ul>
 </div>
 
+
 <!--Intro start-->
-- 🔭 I'm enjoy learning new things
+### 🚀 About Me
+* 🎓 **Software Engineering Student** at UCompensar (2nd Semester).
+* 💡 **Passionate** about learning new technologies and building clean software.
+* 🛠️ *"If it's not well done, it's not done."*
+* 📬 **Contact me at:** [crisja.lh08@gmail.com](mailto:crisja.lh08@gmail.com)
 
-- 🌱 If it is not well done it is not done
-
-- ☁️ I am studying software engineering
-
-- 📝 you can contact me at (crisja.lh08@gmail.com)
+### 📂 Featured Projects
+* ☕ [proyectos-universidad-java](https://github.com) - A collection of academic Java projects built using NetBeans, focusing on logic, loops, and data structures.
+* 🗄️ [proyectos-mysql-universidad](https://github.com) - Relational database schemas, architecture, and SQL scripts developed during my software engineering degree.
 <!--Intro end-->
 
 <!--- stats & Trophy (start) -->
