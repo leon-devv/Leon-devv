@@ -30,8 +30,8 @@
 
 📁 **Featured Projects**
 
-* ☕ [(https://github.com/leon-devv/proyectos-universidad-java) - A collection of academic Java projects built using NetBeans, focusing on logic, loops, and data structures.
-* 🗄️ [(https://github.com/leon-devv/proyectos-mysql-universidad) - Relational database schemas, architecture, and SQL scripts developed during my software engineering degree.
+* ☕ [proyectos-universidad-java](https://github.com) - A collection of academic Java projects built using NetBeans, focusing on logic, loops, and data structures.
+* 🗄️ [proyectos-mysql-universidad](https://github.com) - Relational database schemas, architecture, and SQL scripts developed during my software engineering degree.
 
 <!--Intro end-->
 
